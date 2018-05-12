@@ -1,0 +1,30 @@
+_repo: With-the-French-Flying-Corps_46299
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46299-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Winslow, Carroll Dana
+    birthdate: 1889
+    deathdate: 1932
+    gutenberg_agent_id: '43706'
+    url: http://www.gutenberg.org/2009/agents/43706
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2014-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46299'
+  lccn: '17001909'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aeronautics, Military -- France'
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Aerial operations'
+title: With the French Flying Corps
+url: http://www.gutenberg.org/ebooks/46299
